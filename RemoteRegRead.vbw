@@ -1,0 +1,5 @@
+RegistryGrip = 88, 88, 568, 459, 
+frmRemoteRead = 66, 66, 454, 509, Z, 44, 44, 650, 487, C
+GetConnected = 88, 88, 634, 531, 
+frmLogin = 88, 88, 658, 444, , 66, 66, 636, 422, C
+GetErrMessage = 22, 22, 592, 378, 
